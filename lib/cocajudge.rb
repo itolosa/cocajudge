@@ -1,0 +1,1 @@
+require 'coca_judge'
