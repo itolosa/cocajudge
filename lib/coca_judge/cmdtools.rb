@@ -4,7 +4,6 @@ require 'coca_judge/os_check'
 require 'timeout'
 require 'open3'
 
-
 module CocaJudge
   class CmdTools
     @@proc_opts = {

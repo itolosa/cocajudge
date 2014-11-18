@@ -6,5 +6,5 @@ require 'coca_judge/version'
 module CocaJudge
   extend ActiveSupport::Autoload
 
-  autoload :Core
+  autoload :Base
 end
